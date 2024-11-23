@@ -1,7 +1,0 @@
-{
-  "name": "gestion-turnos",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "vue-vite"
-}

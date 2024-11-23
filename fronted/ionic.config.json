@@ -1,0 +1,7 @@
+{
+  "name": "gestion-turnero",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
